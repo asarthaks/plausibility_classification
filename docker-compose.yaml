@@ -1,0 +1,17 @@
+services:
+  app:
+    ipc: host
+    build: .
+    container_name: smp_project
+    command: "jupyter-notebook --ip='0.0.0.0' --port=8989 --no-browser --allow-root"
+    ports:
+      - 8989:8989
+    volumes:
+      - .:/code
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
