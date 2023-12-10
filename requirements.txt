@@ -2,3 +2,6 @@ notebook
 pandas
 numpy
 matplotlib
+nltk
+wordcloud
+scikit-learn
