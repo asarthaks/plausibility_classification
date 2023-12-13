@@ -7,3 +7,4 @@ wordcloud
 scikit-learn
 gensim
 seaborn
+textstat
