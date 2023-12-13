@@ -10,4 +10,8 @@ RUN apt-get update && \
     apt-get install -y git
 COPY ./ /code/
 
+RUN python -m nltk.downloader stopwords
+RUN python -m nltk.downloader punkt
+RUN python -m nltk.downloader wordnet
+
 CMD ["jupyter-notebook", "--ip='0.0.0.0'", "--port=8000", "--no-browser", "--allow-root"]
