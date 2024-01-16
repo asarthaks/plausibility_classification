@@ -8,4 +8,8 @@ scikit-learn
 gensim
 seaborn
 textstat
+transformers
+evaluate
+tqdm
+torch
 
