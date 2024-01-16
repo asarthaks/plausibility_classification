@@ -20,7 +20,6 @@
 {"sentence1": "Recycle sorts junk.", "sentence2": "Secondary recycle sorts junk.", "modifier": "secondary", "noun": "recycle", "label": 3, "idx": 18},
 {"sentence1": "Fiberglass is used for insulation.", "sentence2": "Comparable fiberglass is used for insulation.", "modifier": "comparable", "noun": "fiberglass", "label": 3, "idx": 19},
 {"sentence1": "A neighbor is for borrowing things from.", "sentence2": "A virtual neighbor is for borrowing things from.", "modifier": "virtual", "noun": "neighbor", "label": 3, "idx": 20},
-
 {"sentence1": "Peaches ripen on trees.", "sentence2": "Fuzzy peaches ripen on trees.", "modifier": "fuzzy", "noun": "peaches", "label": 3, "idx": 21},
 {"sentence1": "Curries tantalize taste buds.", "sentence2": "Spicy curries tantalize taste buds.", "modifier": "spicy", "noun": "curries", "label": 3, "idx": 22},
 {"sentence1": "Champagnes toast celebrities.", "sentence2": "Bubbly champagnes toast celebrities.", "modifier": "bubbly", "noun": "champagnes", "label": 3, "idx": 23},
@@ -37,7 +36,6 @@
 {"sentence1": "Refreshments revitalize summers.", "sentence2": "Cold refreshments revitalize summers.", "modifier": "cold", "noun": "refreshments", "label": 3, "idx": 34},
 {"sentence1": "Candy dissolves sweetly.", "sentence2": "Fluffy candy dissolves sweetly.", "modifier": "fluffy", "noun": "candy", "label": 3, "idx": 35},
 {"sentence1": "Coffees awaken senses.", "sentence2": "Brewed coffees awaken senses.", "modifier": "brewed", "noun": "coffees", "label": 3, "idx": 36},
-
 {"sentence1": "Chocolate entices taste buds.", "sentence2": "Dark chocolate entices taste buds.", "modifier": "dark", "noun": "chocolate", "label": 3, "idx": 37},
 {"sentence1": "Strawberries delight senses.", "sentence2": "Sweet strawberries delight senses.", "modifier": "sweet", "noun": "strawberries", "label": 3, "idx": 38},
 {"sentence1": "Fruits refresh mouths.", "sentence2": "Citrus fruits refresh mouths.", "modifier": "citrus", "noun": "fruits", "label": 3, "idx": 39},
@@ -54,7 +52,6 @@
 {"sentence1": "Air invigorates lungs.", "sentence2": "Fresh air invigorates lungs.", "modifier": "Fresh", "noun": "air", "label": 3, "idx": 50},
 {"sentence1": "Sunbeams brighten days.", "sentence2": "Golden sunbeams brighten days.", "modifier": "Golden", "noun": "sunbeams", "label": 3, "idx": 51},
 {"sentence1": "Sauce burns tongues.", "sentence2": "Hot sauce burns tongues.", "modifier": "hot", "noun": "sauce", "label": 3, "idx": 52},
-
 {"sentence1": "Kitten purrs contentedly.", "sentence2": "Soft kitten purrs contentedly.", "modifier": "Soft", "noun": "kitten", "label": 3, "idx": 53},
 {"sentence1": "Sunbeams brighten day.", "sentence2": "Golden sunbeams brighten day.", "modifier": "golden", "noun": "sunbeams", "label": 3, "idx": 54},
 {"sentence1": "Sky is beautiful to watch.", "sentence2": "Moonlit sky is beautiful to watch.", "modifier": "Moonlit", "noun": "sky", "label": 3, "idx": 55},
@@ -70,7 +67,6 @@
 {"sentence1": "Snowflake falls gently.", "sentence2": "Delicate snowflake falls gently.", "modifier": "Delicate", "noun": "snowflake", "label": 3, "idx": 65},
 {"sentence1": "Music pulsing rhythm.", "sentence2": "Vivacious music pulsing rhythm.", "modifier": "Vivacious", "noun": "music", "label": 3, "idx": 66},
 {"sentence1": "Sunset fades slowly.", "sentence2": "Purple sunset fades slowly.", "modifier": "purple", "noun": "sunset", "label": 3, "idx": 67},
-
 {"sentence1": "Garden delights senses.", "sentence2": "Blooming garden delights senses.", "modifier": "Blooming", "noun": "garden", "label": 3, "idx": 68},
 {"sentence1": "The aroma of coffee fills air.", "sentence2": "The aroma of brewed coffee fills air.", "modifier": "brewed", "noun": "coffee", "label": 3, "idx": 69},
 {"sentence1": "Mountain peaks touch sky.", "sentence2": "Towering mountain peaks touch sky.", "modifier": "Towering", "noun": "mountain", "label": 3, "idx": 70},
@@ -84,7 +80,6 @@
 {"sentence1": "crafts exhibited gallery.", "sentence2": "Handmade crafts exhibited gallery.", "modifier": "Handmade", "noun": "crafts", "label": 3, "idx": 78},
 {"sentence1": "aroma wafts kitchen.", "sentence2": "Enticing Aroma wafts kitchen.", "modifier": "Enticing", "noun": "aroma", "label": 3, "idx": 79},
 {"sentence1": "performance enthralls spectators.", "sentence2": "Mesmerizing performance enthralls spectators.", "modifier": "Mesmerizing", "noun": "performance", "label": 3, "idx": 80},
-
 {"sentence1": "Sandy beach welcomes sunbathers.", "sentence2": "Warm sandy beach welcomes sunbathers.", "modifier": "Warm", "noun": "sandy beach", "label": 3, "idx": 81},
 {"sentence1": "Blue sky delights pilots.", "sentence2": "Clear blue sky delights pilots.", "modifier": "Clear", "noun": "blue sky", "label": 3, "idx": 82},
 {"sentence1": "Cut grass smells sweet.", "sentence2": "Freshly cut grass smells sweet.", "modifier": "Freshly", "noun": "cut grass", "label": 3, "idx": 83},
@@ -98,7 +93,6 @@
 {"sentence1": "Stream flows peacefully.", "sentence2": "Gentle stream flows peacefully.", "modifier": "Gentle", "noun": "stream", "label": 3, "idx": 91},
 {"sentence1": "Ruins reveal history.", "sentence2": "Ancient ruins reveal history.", "modifier": "Ancient", "noun": "ruins", "label": 3, "idx": 92},
 {"sentence1": "Sunset blazes sky.", "sentence2": "Fiery sunset blazes sky.", "modifier": "Fiery", "noun": "sunset", "label": 3, "idx": 93},
-
 {"sentence1": "Beach welcomes sunbathers.", "sentence2": "sandy beach welcomes sunbathers.", "modifier": "sandy", "noun": "beach", "label": 3, "idx": 81},
 {"sentence1": "sky delights pilots.", "sentence2": "blue sky delights pilots.", "modifier": "blue", "noun": "sky", "label": 3, "idx": 82},
 {"sentence1": "grass smells sweet.", "sentence2": "cut grass smells sweet.", "modifier": "cut", "noun": "grass", "label": 3, "idx": 83},
@@ -112,7 +106,6 @@
 {"sentence1": "Stream flows peacefully.", "sentence2": "Gentle stream flows peacefully.", "modifier": "Gentle", "noun": "stream", "label": 3, "idx": 91},
 {"sentence1": "Ruins reveal history.", "sentence2": "Ancient ruins reveal history.", "modifier": "Ancient", "noun": "ruins", "label": 3, "idx": 92},
 {"sentence1": "Sunset blazes sky.", "sentence2": "Fiery sunset blazes sky.", "modifier": "Fiery", "noun": "sunset", "label": 3, "idx": 93},
-
 {"sentence1": "pillow invites dreamers.", "sentence2": "Fluffy pillow invites dreamers.", "modifier": "Fluffy", "noun": "pillow", "label": 3, "idx": 94},
 {"sentence1": "pool tempts swimmers.", "sentence2": "clean pool tempts swimmers.", "modifier": "clean", "noun": "pool", "label": 3, "idx": 95},
 {"sentence1": "forest shelters animals.", "sentence2": "lush forest shelters animals.", "modifier": "lush", "noun": "forest", "label": 3, "idx": 96},
