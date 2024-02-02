@@ -1,7 +1,7 @@
 {
     "facebook/bart-base#normal_finetuning": [
         {
-            "epoch": 0,
+            "epoch": 1,
             "validation_accuracy": 0.7129629629629629,
             "validation_precision": 0.35648148148148145,
             "validation_recall": 0.5,
@@ -14,7 +14,7 @@
             "test_roc_auc": 0.6598240469208212
         },
         {
-            "epoch": 1,
+            "epoch": 2,
             "validation_accuracy": 0.7268518518518519,
             "validation_precision": 0.6840354767184036,
             "validation_recall": 0.5434645999162128,
@@ -27,7 +27,7 @@
             "test_roc_auc": 0.6889400921658987
         },
         {
-            "epoch": 2,
+            "epoch": 3,
             "validation_accuracy": 0.7685185185185185,
             "validation_precision": 0.7277777777777777,
             "validation_recall": 0.6545873481357352,
@@ -40,7 +40,7 @@
             "test_roc_auc": 0.7094679514034354
         },
         {
-            "epoch": 3,
+            "epoch": 4,
             "validation_accuracy": 0.7546296296296297,
             "validation_precision": 0.7037884767166536,
             "validation_recall": 0.6352115626309175,
@@ -55,7 +55,7 @@
     ],
     "facebook/bart-base#concreteness_score_addition": [
         {
-            "epoch": 0,
+            "epoch": 1,
             "validation_accuracy": 0.75,
             "validation_precision": 0.6944444444444444,
             "validation_recall": 0.6319648093841642,
@@ -68,7 +68,7 @@
             "test_roc_auc": 0.7227691663175535
         },
         {
-            "epoch": 1,
+            "epoch": 2,
             "validation_accuracy": 0.7361111111111112,
             "validation_precision": 0.6692586441189793,
             "validation_recall": 0.6174067867616254,
@@ -81,7 +81,7 @@
             "test_roc_auc": 0.7428780896522832
         },
         {
-            "epoch": 2,
+            "epoch": 3,
             "validation_accuracy": 0.75,
             "validation_precision": 0.7197750702905341,
             "validation_recall": 0.5982404692082112,
@@ -94,7 +94,7 @@
             "test_roc_auc": 0.7375366568914956
         },
         {
-            "epoch": 3,
+            "epoch": 4,
             "validation_accuracy": 0.7638888888888888,
             "validation_precision": 0.7325281209662549,
             "validation_recall": 0.632069543359866,
@@ -109,7 +109,7 @@
     ],
     "microsoft/deberta-base#normal_finetuning": [
         {
-            "epoch": 0,
+            "epoch": 1,
             "validation_accuracy": 0.7129629629629629,
             "validation_precision": 0.35648148148148145,
             "validation_recall": 0.5,
@@ -122,7 +122,7 @@
             "test_roc_auc": 0.6953288646837035
         },
         {
-            "epoch": 1,
+            "epoch": 2,
             "validation_accuracy": 0.7314814814814815,
             "validation_precision": 0.6633738601823709,
             "validation_recall": 0.5900712191034772,
@@ -135,7 +135,7 @@
             "test_roc_auc": 0.7336614997905321
         },
         {
-            "epoch": 2,
+            "epoch": 3,
             "validation_accuracy": 0.7407407407407407,
             "validation_precision": 0.6770833333333333,
             "validation_recall": 0.6495601173020528,
@@ -148,7 +148,7 @@
             "test_roc_auc": 0.734080435693339
         },
         {
-            "epoch": 3,
+            "epoch": 4,
             "validation_accuracy": 0.7083333333333334,
             "validation_precision": 0.6149084568439407,
             "validation_recall": 0.5690196899874319,
@@ -163,7 +163,7 @@
     ],
     "microsoft/deberta-base#concreteness_score_addition": [
         {
-            "epoch": 0,
+            "epoch": 1,
             "validation_accuracy": 0.7129629629629629,
             "validation_precision": 0.35648148148148145,
             "validation_recall": 0.5,
@@ -176,7 +176,7 @@
             "test_roc_auc": 0.46622329283619607
         },
         {
-            "epoch": 1,
+            "epoch": 2,
             "validation_accuracy": 0.7129629629629629,
             "validation_precision": 0.35648148148148145,
             "validation_recall": 0.5,
@@ -189,7 +189,7 @@
             "test_roc_auc": 0.5217322999581064
         },
         {
-            "epoch": 2,
+            "epoch": 3,
             "validation_accuracy": 0.7129629629629629,
             "validation_precision": 0.35648148148148145,
             "validation_recall": 0.5,
@@ -202,7 +202,7 @@
             "test_roc_auc": 0.5072790113112694
         },
         {
-            "epoch": 3,
+            "epoch": 4,
             "validation_accuracy": 0.7129629629629629,
             "validation_precision": 0.35648148148148145,
             "validation_recall": 0.5,
