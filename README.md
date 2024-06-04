@@ -1,4 +1,4 @@
-# smp_project
+# Plausibility classification
 
 Enhanced a DeBERTa-based sequence classification model by integrating concreteness scores as additional input features to improve prediction accuracy. Modified the classification head and context pooling layer to accommodate and concatenate these scores with pooled sentence embeddings. Conducted extensive experiments using PyTorch and the Transformers library, demonstrating the effectiveness of this approach over baseline models.
 
