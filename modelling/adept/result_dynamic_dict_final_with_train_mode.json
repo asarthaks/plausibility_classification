@@ -1,0 +1,110 @@
+{
+    "microsoft/deberta-base#concreteness_score_addition#train": [
+        {
+            "epoch": 1,
+            "validation_accuracy": 0.6983240223463687,
+            "validation_precision": 0.46266397068115755,
+            "validation_recall": 0.3230174184511084,
+            "validation_f1": 0.34254724200708786,
+            "validation_roc_auc": 0.7151782750957768,
+            "test_accuracy": 0.7121588089330024,
+            "test_precision": 0.459035564833054,
+            "test_recall": 0.3348501888706639,
+            "test_f1": 0.3582215921261115,
+            "test_roc_auc": 0.7283373484413052
+        },
+        {
+            "epoch": 2,
+            "validation_accuracy": 0.702048417132216,
+            "validation_precision": 0.44606488666038785,
+            "validation_recall": 0.34997477670495697,
+            "validation_f1": 0.37459166608070843,
+            "validation_roc_auc": 0.74682501082617,
+            "test_accuracy": 0.7078163771712159,
+            "test_precision": 0.4454959238261912,
+            "test_recall": 0.33870841197464435,
+            "test_f1": 0.3644545831424305,
+            "test_roc_auc": 0.7552194918282256
+        },
+        {
+            "epoch": 3,
+            "validation_accuracy": 0.6958410924891372,
+            "validation_precision": 0.4164917067492711,
+            "validation_recall": 0.3703933591647928,
+            "validation_f1": 0.3874654096215178,
+            "validation_roc_auc": 0.7391974649228523,
+            "test_accuracy": 0.7146401985111662,
+            "test_precision": 0.4364070711896799,
+            "test_recall": 0.37608832743972764,
+            "test_f1": 0.39840460768700775,
+            "test_roc_auc": 0.764996307066946
+        },
+        {
+            "epoch": 4,
+            "validation_accuracy": 0.6747361887026692,
+            "validation_precision": 0.4042706266146994,
+            "validation_recall": 0.39686471587147915,
+            "validation_f1": 0.3980615533199797,
+            "validation_roc_auc": 0.7442190622630249,
+            "test_accuracy": 0.6904466501240695,
+            "test_precision": 0.4044067525384956,
+            "test_recall": 0.3878502744135048,
+            "test_f1": 0.3935752141693139,
+            "test_roc_auc": 0.7668466562891653
+        }
+    ],
+    "microsoft/deberta-base#concreteness_score_addition#artificial_train_combined": [
+        {
+            "epoch": 1,
+            "validation_accuracy": 0.6977032898820609,
+            "validation_precision": 0.43887417911941196,
+            "validation_recall": 0.3077845290377486,
+            "validation_f1": 0.3306180614598217,
+            "validation_roc_auc": 0.7156121929526111,
+            "test_accuracy": 0.7009925558312655,
+            "test_precision": 0.42272936352067303,
+            "test_recall": 0.29798563132371025,
+            "test_f1": 0.3219702342362928,
+            "test_roc_auc": 0.7149282050202874
+        },
+        {
+            "epoch": 2,
+            "validation_accuracy": 0.6995654872749845,
+            "validation_precision": 0.45613145279589495,
+            "validation_recall": 0.3568009086998877,
+            "validation_f1": 0.38033582782282416,
+            "validation_roc_auc": 0.7224375712298887,
+            "test_accuracy": 0.6991315136476427,
+            "test_precision": 0.43015390225077643,
+            "test_recall": 0.34227643831095933,
+            "test_f1": 0.36420096695346416,
+            "test_roc_auc": 0.7279932716272792
+        },
+        {
+            "epoch": 3,
+            "validation_accuracy": 0.7039106145251397,
+            "validation_precision": 0.44083654854993704,
+            "validation_recall": 0.37817930491512103,
+            "validation_f1": 0.3997039985050155,
+            "validation_roc_auc": 0.7421103135610027,
+            "test_accuracy": 0.7047146401985112,
+            "test_precision": 0.4237567101628371,
+            "test_recall": 0.3594706172803061,
+            "test_f1": 0.38149784454160596,
+            "test_roc_auc": 0.7485936536440201
+        },
+        {
+            "epoch": 4,
+            "validation_accuracy": 0.691495965238982,
+            "validation_precision": 0.4275584269852519,
+            "validation_recall": 0.3974810299280031,
+            "validation_f1": 0.4078770333609043,
+            "validation_roc_auc": 0.7420646830059044,
+            "test_accuracy": 0.6867245657568238,
+            "test_precision": 0.4050204837906744,
+            "test_recall": 0.37826626692310117,
+            "test_f1": 0.3884466806689614,
+            "test_roc_auc": 0.748685874470878
+        }
+    ]
+}
